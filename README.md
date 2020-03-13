@@ -59,7 +59,7 @@ Ist ein Schaltungkonzept, bei dem der Befehlsspeicher logisch und physisch vom D
 Der Steuerbus ist zuständig für die zeitliche Ablaufsteuerung innerhalb der Zentraleinheit.
 
 ## Addressbus:
->TODO
+Der Adressbus ist Teil des Systembusses von Computern. Über ihn werden die Rechenaufgaben transportiert und die Positionen im Arbeitsspeicher adressiert.
 
 
 ## Datenbus:
