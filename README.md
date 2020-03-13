@@ -1,8 +1,12 @@
-# M242: Mikroprozessor realisieren
+# M242: Mikroprozessoranwendung realisieren
 
 ## Block I:
 
 ### Prozessor:
+Ein Prozessor ist eine Zusammenstellung von Transistoren, welche alle Rechenvorgänge mit Hilfe vom Binärsystem löst. Befehle werden in Maschinensprache an den Prozessor weiter geleitet. 
+
+### Mikroprozessor:
+Ein Mikroprozessor ist ein Prozessor in sehr kleinem Masstab, bei dem alle Bausteine des Prozessors auf einem Mikrochip vereinigt sind
 
 ### CPU:
 Hauptkomponente:
